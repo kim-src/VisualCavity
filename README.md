@@ -3,7 +3,6 @@
 - ### [LinkedIn Profile (Chang-Seong Kim)](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
 
 <br>
-<br>
 
 ## ✅ 모델 소개
 > ### 1. [Cavity Detection AI Model](https://github.com/Kim-src/Cavity-Detection-AI-Model) in TensorFlow Projects
