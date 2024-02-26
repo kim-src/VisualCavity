@@ -1,6 +1,6 @@
 <!-- Introduction -->
 ### 🎁 Tunnel
-- [VisualCavity 개발 현황](https://kim-src.github.io/categories/visualcavity/)
+- [VisualCavity 개발 현황 (깃허브 블로그)](https://kim-src.github.io/categories/visualcavity/)
 - [링크드인 프로필 (Chang-Seong Kim)](https://www.linkedin.com/in/chang-seong-kim-7826142a0/)
 
 <br>
