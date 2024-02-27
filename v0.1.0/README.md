@@ -4,4 +4,4 @@
 > - 싱크홀 및 지장물에 대한 GPR 이미지 설명
 > - AI 모델 구축을 위한 코드 정보
 > - VisualCavity AI v0.1.0 테스트 결과
-> - VisualCavity AI 개발 현황
+> - VisualCavity AI 개발 전체 현황
