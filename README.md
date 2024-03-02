@@ -4,7 +4,7 @@
 
 <br>
 
-## ✅ 모델 소개
+## ✅ VisualCavity AI 소개
 > - 모델명 : VisualCavity AI
 > - 모델분류 : 이미지 학습 CNN AI 모델
 > - 상세내용 : 싱크홀(공동) 자동 분석 프로그램 제작을 위한 이미지 학습 AI 모델
