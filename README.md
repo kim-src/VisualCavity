@@ -14,12 +14,12 @@
 > - 개발에 필요했던 기능 :  
 > <img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" /> <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white" /> <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-%23323330.svg?style=flat-square&logo=opencv&logoColor=white" /> <img alt="ElementTree" src="https://img.shields.io/badge/-ElementTree-blue?style=flat-square&logo=python&logoColor=white" /> <img alt="numpy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
 > 
-> #### 🚀 개발 현황
+> #### 🎯 개발 현황
 > - VisualCavity AI는 싱크홀 데이터 분석 수준을 감소시키기 위해 개발중인 AI 모델입니다.
 > - 현재 이미지 학습을 위한 초기 AI 모델은 구축되었습니다.
 > - 추후 준비된 7만장 이상의 이미지를 학습시켜서 AI의 이미지 분석 수준을 상승시킬 예정입니다.
 > 
-> #### 🔔 GPR 데이터 분석
+> #### 🎯 GPR 데이터 분석
 > - 싱크홀 이슈가 매년 꾸준히 대두되면서 국가에서는 땅꺼짐 사고를 예방하기 위한 사업을 진행중입니다.
 > - 땅꺼짐 사고를 예방하기 위해서는 GPR이라는 레이더 장치를 이용하여 도로 하부를 조사해야 됩니다.
 > - 이때 도로 하부에 빈 공간(싱크홀)이 어느 곳에 있는지, 또는 없는지는 조사하기 전까지 알 수 없습니다.
@@ -27,7 +27,7 @@
 > - 수집된 GPR 전자기파 데이터는 전문 프로그램에서 시각화되어 보여집니다.
 > - GPR 데이터 분석이란 이 시각화 된 데이터에서 싱크홀의 유무를 파악하는 것입니다.
 > 
-> #### 🔔 개발 목적의 이유
+> #### 🎯 개발 목적의 이유
 > - GPR 데이터의 형태는 지하 구조 또는 물질에 따라 다르게 보입니다.
 > - 그래서 도로 하부 2m 이내의 관로, 자갈, 싱크홀 등의 분포 위치를 대략적으로 파악할 수 있습니다.
 > - 그런데 이 형태는 분석가의 분석 역량에 따라 다르게 판단됩니다.
