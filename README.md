@@ -11,6 +11,7 @@
 > - 개발 내용 : 싱크홀(공동) 자동 분석 프로그램(VIsualCavity) 제작을 위한 이미지 학습 AI 모델
 > - 개발 역량 : Python 라이브러리, XML 파싱, AI의 이미지 학습 과정 및 딥러닝 모델 이해
 > - 주요 자료 : 지하 물리 탐사로 획득한 70,732장의 싱크홀 또는 지장물 이미지
+> - 상세 내용 : <a href="https://kim-src.github.io/categories/visualcavity-ai/">깃허브 블로그 글 (제목 : VisualCavity AI)</a>
 > - 개발에 필요했던 기능 :  
 > <img alt="Google Colab" src="https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat-square&logo=google-colab&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
 > 
